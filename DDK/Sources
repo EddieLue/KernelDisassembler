@@ -1,0 +1,9 @@
+TARGETNAME=hf
+TARGETTYPE=DRIVER
+TARGETPATH=sys
+INCLUDES=D:\WinDDK\7600.16385.1\inc;\
+      D:\WinDDK\7600.16385.1\inc\CRT;\
+      D:\WinDDK\7600.16385.1\inc\ddk;\
+      D:\WinDDK\7600.16385.1\inc\API;\ 
+
+SOURCES=hf.cpp\ 
